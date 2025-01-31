@@ -1,1 +1,1 @@
-# an attempt to make rust csv and yml configurations easier through automation via Docker
+# Attempting to integrate Docker with Merino (5OCKS server written in rust) 
